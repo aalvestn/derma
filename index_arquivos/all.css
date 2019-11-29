@@ -5771,7 +5771,7 @@ body[data-state=intro] .back-to-top-arrow-wrap:hover span::after,body[data-state
     display:none
 }
 .site_map .list_map li:before{
-    content:"•";
+    content:"â€¢";
     color:rgba(174,173,174,0.59);
     display:inline-block
 }
@@ -6716,14 +6716,12 @@ ss .modal_calcula_frete-10off .box_geral div .email:-ms-input-placeholder{
     font-weight:700;
     display:inline-block;
     line-height:12px;
-    padding:19px 0;
     float:left;
     white-space:nowrap
 }
 .contador_fixo .txt_desconto em{
     font-style:normal;
     color:#ffba00;
-    padding-left:102px;
     position:relative
 }
 .contador_fixo .txt_desconto em.espaco{
